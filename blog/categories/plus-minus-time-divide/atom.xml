@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Math C Plus Plus]]></title>
-  <link href="http://mathcpp.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Plus,Minus,Time,Divide | Math C Plus Plus]]></title>
+  <link href="http://mathcpp.github.io/blog/categories/plus-minus-time-divide/atom.xml" rel="self"/>
   <link href="http://mathcpp.github.io/"/>
   <updated>2014-04-13T21:19:30+08:00</updated>
   <id>http://mathcpp.github.io/</id>
@@ -26,19 +26,6 @@ main(){
     printf("a-b=%f\n",a-b);
     printf("a*b=%f\n",a*b);
     printf("a÷b=%f\n",a/b);
-}
-</code></pre>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello Mathcpp]]></title>
-    <link href="http://mathcpp.github.io/blog/2014/04/13/hello-mathcpp/"/>
-    <updated>2014-04-13T19:36:28+08:00</updated>
-    <id>http://mathcpp.github.io/blog/2014/04/13/hello-mathcpp</id>
-    <content type="html"><![CDATA[<pre><code>#include&lt;stdio.h&gt;
-main(){
-    printf("Hello,Mathcpp!");
 }
 </code></pre>
 ]]></content>
