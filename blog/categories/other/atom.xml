@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Other | Math C Plus Plus]]></title>
   <link href="http://mathcpp.github.io/blog/categories/other/atom.xml" rel="self"/>
   <link href="http://mathcpp.github.io/"/>
-  <updated>2014-04-20T11:18:56+08:00</updated>
+  <updated>2014-04-20T11:20:52+08:00</updated>
   <id>http://mathcpp.github.io/</id>
   <author>
     <name><![CDATA[Grant Hunter]]></name>
@@ -29,17 +29,17 @@
 <span class='line-number'>9</span>
 <span class='line-number'>10</span>
 <span class='line-number'>11</span>
-</pre></td><td class='code'><pre><code class='bash'><span class='line'>&lt;/p&gt;
+</pre></td><td class='code'><pre><code class='cpp'><span class='line'><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
 </span><span class='line'>
-</span><span class='line'>&lt;h1&gt;include&amp;lt;stdio.h&gt;&lt;/h1&gt;
+</span><span class='line'><span class="o">&lt;</span><span class="n">h1</span><span class="o">&gt;</span><span class="n">include</span><span class="o">&amp;</span><span class="n">lt</span><span class="p">;</span><span class="n">stdio</span><span class="p">.</span><span class="n">h</span><span class="o">&gt;&lt;/</span><span class="n">h1</span><span class="o">&gt;</span>
 </span><span class='line'>
-</span><span class='line'>&lt;p&gt;main<span class="o">(){</span>&lt;/p&gt;
+</span><span class='line'><span class="o">&lt;</span><span class="n">p</span><span class="o">&gt;</span><span class="n">main</span><span class="p">(){</span><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
 </span><span class='line'>
-</span><span class='line'>&lt;pre&gt;&lt;code&gt;    <span class="nb">printf</span><span class="o">(</span><span class="s2">&quot;Hello,Mathcpp!&quot;</span><span class="o">)</span>;
-</span><span class='line'>    <span class="o">}</span>
-</span><span class='line'>&lt;/code&gt;&lt;/pre&gt;
+</span><span class='line'><span class="o">&lt;</span><span class="n">pre</span><span class="o">&gt;&lt;</span><span class="n">code</span><span class="o">&gt;</span>    <span class="n">printf</span><span class="p">(</span><span class="s">&quot;Hello,Mathcpp!&quot;</span><span class="p">);</span>
+</span><span class='line'>    <span class="p">}</span>
+</span><span class='line'><span class="o">&lt;/</span><span class="n">code</span><span class="o">&gt;&lt;/</span><span class="n">pre</span><span class="o">&gt;</span>
 </span><span class='line'>
-</span><span class='line'>&lt;p&gt;
+</span><span class='line'><span class="o">&lt;</span><span class="n">p</span><span class="o">&gt;</span>
 </span></code></pre></td></tr></table></div></figure></notextile></div></p>
 ]]></content>
   </entry>
