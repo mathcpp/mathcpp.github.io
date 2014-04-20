@@ -9,8 +9,14 @@
         <lastmod>2014-04-20T10:49:41+08:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://mathcpp.github.io/blog/2014/04/20/1-plus-2-plus-3-plus-dot-dot-dot-plus-100/
+        </loc>
+        <lastmod>2014-04-20T11:17:52+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://mathcpp.github.io/</loc>
-        <lastmod>2014-04-20T10:49:41+08:00</lastmod>
+        <lastmod>2014-04-20T11:17:52+08:00</lastmod>
     </url>
     <url>
         <loc>http://mathcpp.github.io/robots.txt</loc>
@@ -18,6 +24,6 @@
     </url>
     <url>
         <loc>http://mathcpp.github.io/blog/archives/</loc>
-        <lastmod>2014-04-20T10:49:41+08:00</lastmod>
+        <lastmod>2014-04-20T11:17:52+08:00</lastmod>
     </url>
 </urlset>

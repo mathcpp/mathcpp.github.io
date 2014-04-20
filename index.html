@@ -9,17 +9,16 @@
   <meta name="author" content="Grant Hunter">
 
   
-  <meta name="description" content="1
+  <meta name="description" content="1+2+3+4+…100 1
 2
 3
 4
 5
 6
 7
-8
-9
 #include&lt;stdio.h&gt;
-main(){ float a,b; a=50,b=100; printf(&quot;a+b=%f\n&quot;,a+b); printf(&quot;a-b=%f\n&quot;,a-b); printf &hellip;">
+main(){ int i,sum=0; for(i=1;i&lt;=100;i++) sum=sum+i; printf(&quot;%d\n&quot;,sum);
+} ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -75,6 +74,64 @@ main(){ float a,b; a=50,b=100; printf(&quot;a+b=%f\n&quot;,a+b); printf(&quot;a-
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/04/20/1-plus-2-plus-3-plus-dot-dot-dot-plus-100/">1+2+3+…+100</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-04-20T11:13:10+08:00" pubdate data-updated="true">Apr 20<span>th</span>, 2014</time>
+        
+           | <a href="/blog/2014/04/20/1-plus-2-plus-3-plus-dot-dot-dot-plus-100/#disqus_thread"
+             data-disqus-identifier="http://mathcpp.github.io/blog/2014/04/20/1-plus-2-plus-3-plus-dot-dot-dot-plus-100/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>1+2+3+4+…100</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class='c++'><span class='line'><span class="cp">#include&lt;stdio.h&gt;</span>
+</span><span class='line'><span class="n">main</span><span class="p">(){</span>
+</span><span class='line'>    <span class="kt">int</span> <span class="n">i</span><span class="p">,</span><span class="n">sum</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">for</span><span class="p">(</span><span class="n">i</span><span class="o">=</span><span class="mi">1</span><span class="p">;</span><span class="n">i</span><span class="o">&lt;=</span><span class="mi">100</span><span class="p">;</span><span class="n">i</span><span class="o">++</span><span class="p">)</span>
+</span><span class='line'>        <span class="n">sum</span><span class="o">=</span><span class="n">sum</span><span class="o">+</span><span class="n">i</span><span class="p">;</span>
+</span><span class='line'>    <span class="n">printf</span><span class="p">(</span><span class="s">&quot;%d</span><span class="se">\n</span><span class="s">&quot;</span><span class="p">,</span><span class="n">sum</span><span class="p">);</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -201,6 +258,10 @@ main(){ float a,b; a=50,b=100; printf(&quot;a+b=%f\n&quot;,a+b); printf(&quot;a-
     <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/04/20/1-plus-2-plus-3-plus-dot-dot-dot-plus-100/">1+2+3+…+100</a>
+      </li>
     
       <li class="post">
         <a href="/blog/2014/04/13/plus-minus-time-divide/">Plus Minus Time Divide</a>

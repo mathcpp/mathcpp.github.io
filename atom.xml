@@ -4,7 +4,7 @@
   <title><![CDATA[Math C Plus Plus]]></title>
   <link href="http://mathcpp.github.io/atom.xml" rel="self"/>
   <link href="http://mathcpp.github.io/"/>
-  <updated>2014-04-20T10:49:59+08:00</updated>
+  <updated>2014-04-20T11:18:56+08:00</updated>
   <id>http://mathcpp.github.io/</id>
   <author>
     <name><![CDATA[Grant Hunter]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[1+2+3+…+100]]></title>
+    <link href="http://mathcpp.github.io/blog/2014/04/20/1-plus-2-plus-3-plus-dot-dot-dot-plus-100/"/>
+    <updated>2014-04-20T11:13:10+08:00</updated>
+    <id>http://mathcpp.github.io/blog/2014/04/20/1-plus-2-plus-3-plus-dot-dot-dot-plus-100</id>
+    <content type="html"><![CDATA[<p>1+2+3+4+…100</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class='c++'><span class='line'><span class="cp">#include&lt;stdio.h&gt;</span>
+</span><span class='line'><span class="n">main</span><span class="p">(){</span>
+</span><span class='line'>    <span class="kt">int</span> <span class="n">i</span><span class="p">,</span><span class="n">sum</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">for</span><span class="p">(</span><span class="n">i</span><span class="o">=</span><span class="mi">1</span><span class="p">;</span><span class="n">i</span><span class="o">&lt;=</span><span class="mi">100</span><span class="p">;</span><span class="n">i</span><span class="o">++</span><span class="p">)</span>
+</span><span class='line'>        <span class="n">sum</span><span class="o">=</span><span class="n">sum</span><span class="o">+</span><span class="n">i</span><span class="p">;</span>
+</span><span class='line'>    <span class="n">printf</span><span class="p">(</span><span class="s">&quot;%d</span><span class="se">\n</span><span class="s">&quot;</span><span class="p">,</span><span class="n">sum</span><span class="p">);</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Plus Minus Time Divide]]></title>
