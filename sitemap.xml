@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://mathcpp.github.io/blog/2014/04/13/hello-mathcpp/</loc>
+        <loc>http://mathcpp.github.io/blog/20140413/hello-mathcpp/</loc>
         <lastmod>2014-04-20T11:20:07+08:00</lastmod>
     </url>
     <url>
-        <loc>http://mathcpp.github.io/blog/2014/04/13/plus-minus-time-divide/</loc>
+        <loc>http://mathcpp.github.io/blog/20140413/plus-minus-time-divide/</loc>
         <lastmod>2014-04-20T11:20:39+08:00</lastmod>
     </url>
     <url>
         <loc>
-            http://mathcpp.github.io/blog/2014/04/20/1-plus-2-plus-3-plus-dot-dot-dot-plus-100/
+            http://mathcpp.github.io/blog/20140420/1-plus-2-plus-3-plus-dot-dot-dot-plus-100/
         </loc>
         <lastmod>2014-04-20T11:17:52+08:00</lastmod>
     </url>

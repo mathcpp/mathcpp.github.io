@@ -4,7 +4,7 @@
   <title><![CDATA[Math C Plus Plus]]></title>
   <link href="http://mathcpp.github.io/atom.xml" rel="self"/>
   <link href="http://mathcpp.github.io/"/>
-  <updated>2014-04-20T11:20:52+08:00</updated>
+  <updated>2014-04-20T11:41:13+08:00</updated>
   <id>http://mathcpp.github.io/</id>
   <author>
     <name><![CDATA[Grant Hunter]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[1+2+3+…+100]]></title>
-    <link href="http://mathcpp.github.io/blog/2014/04/20/1-plus-2-plus-3-plus-dot-dot-dot-plus-100/"/>
+    <link href="http://mathcpp.github.io/blog/20140420/1-plus-2-plus-3-plus-dot-dot-dot-plus-100/"/>
     <updated>2014-04-20T11:13:10+08:00</updated>
-    <id>http://mathcpp.github.io/blog/2014/04/20/1-plus-2-plus-3-plus-dot-dot-dot-plus-100</id>
+    <id>http://mathcpp.github.io/blog/20140420/1-plus-2-plus-3-plus-dot-dot-dot-plus-100</id>
     <content type="html"><![CDATA[<p>1+2+3+4+…100</p>
 
 <figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
@@ -43,9 +43,9 @@
   
   <entry>
     <title type="html"><![CDATA[Plus Minus Time Divide]]></title>
-    <link href="http://mathcpp.github.io/blog/2014/04/13/plus-minus-time-divide/"/>
+    <link href="http://mathcpp.github.io/blog/20140413/plus-minus-time-divide/"/>
     <updated>2014-04-13T21:17:15+08:00</updated>
-    <id>http://mathcpp.github.io/blog/2014/04/13/plus-minus-time-divide</id>
+    <id>http://mathcpp.github.io/blog/20140413/plus-minus-time-divide</id>
     <content type="html"><![CDATA[
 
 <figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
@@ -75,9 +75,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello Mathcpp]]></title>
-    <link href="http://mathcpp.github.io/blog/2014/04/13/hello-mathcpp/"/>
+    <link href="http://mathcpp.github.io/blog/20140413/hello-mathcpp/"/>
     <updated>2014-04-13T19:36:28+08:00</updated>
-    <id>http://mathcpp.github.io/blog/2014/04/13/hello-mathcpp</id>
+    <id>http://mathcpp.github.io/blog/20140413/hello-mathcpp</id>
     <content type="html"><![CDATA[
 
 <figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
