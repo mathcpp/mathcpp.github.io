@@ -4,7 +4,7 @@
   <title><![CDATA[Math C Plus Plus]]></title>
   <link href="http://mathcpp.github.io/atom.xml" rel="self"/>
   <link href="http://mathcpp.github.io/"/>
-  <updated>2014-04-20T09:58:44+08:00</updated>
+  <updated>2014-04-20T10:44:41+08:00</updated>
   <id>http://mathcpp.github.io/</id>
   <author>
     <name><![CDATA[Grant Hunter]]></name>
@@ -36,11 +36,20 @@ main(){
     <link href="http://mathcpp.github.io/blog/2014/04/13/hello-mathcpp/"/>
     <updated>2014-04-13T19:36:28+08:00</updated>
     <id>http://mathcpp.github.io/blog/2014/04/13/hello-mathcpp</id>
-    <content type="html"><![CDATA[<pre><code>#include&lt;stdio.h&gt;
-main(){
-    printf("Hello,Mathcpp!");
-}
-</code></pre>
+    <content type="html"><![CDATA[
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'><span class="c">#include&lt;stdio.h&gt;</span>
+</span><span class='line'>main<span class="o">(){</span>
+</span><span class='line'>      <span class="nb">printf</span><span class="o">(</span><span class="s2">&quot;Hello,Mathcpp!&quot;</span><span class="o">)</span>;
+</span><span class='line'>        <span class="o">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
 ]]></content>
   </entry>
   
