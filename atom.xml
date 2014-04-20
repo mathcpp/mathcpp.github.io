@@ -4,7 +4,7 @@
   <title><![CDATA[Math C Plus Plus]]></title>
   <link href="http://mathcpp.github.io/atom.xml" rel="self"/>
   <link href="http://mathcpp.github.io/"/>
-  <updated>2014-04-20T10:44:41+08:00</updated>
+  <updated>2014-04-20T10:49:59+08:00</updated>
   <id>http://mathcpp.github.io/</id>
   <author>
     <name><![CDATA[Grant Hunter]]></name>
@@ -18,16 +18,30 @@
     <link href="http://mathcpp.github.io/blog/2014/04/13/plus-minus-time-divide/"/>
     <updated>2014-04-13T21:17:15+08:00</updated>
     <id>http://mathcpp.github.io/blog/2014/04/13/plus-minus-time-divide</id>
-    <content type="html"><![CDATA[<pre><code>#include&lt;stdio.h&gt;
-main(){
-    float a,b;
-    a=50,b=100;
-    printf("a+b=%f\n",a+b);
-    printf("a-b=%f\n",a-b);
-    printf("a*b=%f\n",a*b);
-    printf("a÷b=%f\n",a/b);
-}
-</code></pre>
+    <content type="html"><![CDATA[
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'><span class="c">#include&lt;stdio.h&gt;</span>
+</span><span class='line'>main<span class="o">(){</span>
+</span><span class='line'>    float a,b;
+</span><span class='line'>    <span class="nv">a</span><span class="o">=</span>50,b<span class="o">=</span>100;
+</span><span class='line'>    <span class="nb">printf</span><span class="o">(</span><span class="s2">&quot;a+b=%f\n&quot;</span>,a+b<span class="o">)</span>;
+</span><span class='line'>    <span class="nb">printf</span><span class="o">(</span><span class="s2">&quot;a-b=%f\n&quot;</span>,a-b<span class="o">)</span>;
+</span><span class='line'>    <span class="nb">printf</span><span class="o">(</span><span class="s2">&quot;a*b=%f\n&quot;</span>,a*b<span class="o">)</span>;
+</span><span class='line'>    <span class="nb">printf</span><span class="o">(</span><span class="s2">&quot;a÷b=%f\n&quot;</span>,a/b<span class="o">)</span>;
+</span><span class='line'><span class="o">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
 ]]></content>
   </entry>
   
